@@ -19,10 +19,10 @@ Get pixel size and color specification with python
   <li><p><b>2.README</b></p>
   <p> author: Nazim Bahadir BARDAKCI || nazimbahadirbardakci[at]gmail[dot]com</p>
   <p>advisor: Abdullah ERDEMİR      || aerdemir[at]mpg[dot]com[dot]tr</p>
-<p>=========================================================
-Detecting Pixel size of an image and find defined how many pixels have same RGB.
-=========================================================
-This Code calculating pixel size of an image and where you defined RGB in list.
+  <p>=========================================================</p>
+  <p>Detecting Pixel size of an image and find defined how many pixels have same RGB.</p>
+  <p>=========================================================</p>
+<p>This Code calculating pixel size of an image and where you defined RGB in list.
 Scanning image from x and y axis then calculating RGB colours with distance formula.
 After that adding pixels number in list then show it. You can calculate percentages every colors in image
 <b>Finally Many thanks to Abdullah ERDEMIR. He helped me soo much while calculating pixels rate.
