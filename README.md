@@ -26,7 +26,7 @@ Get pixel size and color specification with python
 Scanning image from x and y axis then calculating RGB colours with distance formula.
 After that adding pixels number in list then show it. You can calculate percentages every colors in image
 <b>Finally Many thanks to Abdullah ERDEMIR. He helped me soo much while calculating pixels rate.
-  If you want to see more about to him visit :</b> www.abdullaherdemir.com</p>
+  If you want to see more about to him visit :</b> www.abdullaherdemir.com.tr</p>
   </li>
   
 </ul>
